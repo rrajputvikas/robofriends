@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Cinemark Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Cinemark Regular'), url('Cinemark.woff') format('woff');
+}
+@font-face {
+    font-family: 'cubus';
+    font-style: normal;
+    font-weight: normal;
+    src: local('cubus'), url('cubitus.woff') format('woff');
+}
+
+h1 {
+    font-family: 'cubus';
+    color: rgba(88, 255, 17,1);
+}
